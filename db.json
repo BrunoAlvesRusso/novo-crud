@@ -1,0 +1,19 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Caneta",
+        "valor": 5
+      },
+      {
+        "id": 2,
+        "nome": "Apontador",
+        "valor": 6.5
+      },
+      {
+        "id": 3,
+        "nome": "Papel manteiga",
+        "valor": 2.5
+      }
+    ]
+  }
